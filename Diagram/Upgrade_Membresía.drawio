@@ -1,9 +1,166 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T15:11:01.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.5" etag="eLUM5mP7g-LbxViTw3Ro" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T15:42:11.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="V1F-r-rTOLEr84qSJCLb" version="21.7.5" type="github">
   <diagram name="Página-1" id="OaWspgbENoflBWe8Gfiu">
-    <mxGraphModel>
+    <mxGraphModel dx="1465" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-1" target="ee_W8zfoHTB6GsHoW_iD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-2" target="ee_W8zfoHTB6GsHoW_iD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-2" target="ee_W8zfoHTB6GsHoW_iD-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="215" />
+              <mxPoint x="1080" y="1065" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-2" value="El usuario desea subir su membresía a un nivel más alto" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-4" target="ee_W8zfoHTB6GsHoW_iD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-4" value="Leer Precio Nuevo Nivel de Membresía" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-5" target="ee_W8zfoHTB6GsHoW_iD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-5" value="Leer Precio de la Membresía anterior en la transacción activa del usuario" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="360" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-7" target="ee_W8zfoHTB6GsHoW_iD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-7" target="ee_W8zfoHTB6GsHoW_iD-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-7" value="Tiene días pendientes en su periodo actual" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="470" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-10" target="ee_W8zfoHTB6GsHoW_iD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-10" value="Restante_Pagado = (Precio Anterior / Días del Periodo)*(Días faltantes del Periodo)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="555" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-12" target="ee_W8zfoHTB6GsHoW_iD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-12" value="Faltante de Pago = (Precio Nuevo / Días del Periodo)*(Días faltantes del Periodo)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="640" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-14" target="ee_W8zfoHTB6GsHoW_iD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-14" value="Precio a Pagar = Faltante de Pago - Restante Pagado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="730" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-16" target="ee_W8zfoHTB6GsHoW_iD-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="543" y="885" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.461;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-16" target="ee_W8zfoHTB6GsHoW_iD-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-16" value="Se proceso el pago de paypal por el &quot;Precio a Pagar&quot;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291.25" y="830" width="175.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-18" value="Mensaje de Error" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="790" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-21" target="ee_W8zfoHTB6GsHoW_iD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-21" value="Se crea nueva transacción con el nuevo nivel de membresía seleccionado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="131.25" y="940" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-23" target="ee_W8zfoHTB6GsHoW_iD-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-23" value="Mensaje de Confirmación de Pago y Membresía Adquirida" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="136.25" y="1030" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-25" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1025.5" width="120" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.55;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1001.75" y="611" />
+            </Array>
+            <mxPoint x="1001.75" y="558.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-31" target="ee_W8zfoHTB6GsHoW_iD-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="663.7600000000002" y="661.9799999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-31" value="Se proceso el pago de paypal" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="556" width="175.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-33" value="Mensaje de Error" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="510" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-35" target="ee_W8zfoHTB6GsHoW_iD-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="726" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-35" value="Se crea nueva transacción con el nuevo nivel de membresía seleccionado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="670" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ee_W8zfoHTB6GsHoW_iD-36" target="ee_W8zfoHTB6GsHoW_iD-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-36" value="Mensaje de Confirmación de Pago y Membresía Adquirida" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="770" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-38" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-39" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-40" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271.25" y="860" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-41" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="590" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-44" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="725" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-45" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-46" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="925.5" y="590" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ee_W8zfoHTB6GsHoW_iD-47" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="466.75" y="860" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
