@@ -1,9 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T14:57:02.216Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.5" etag="Y-RFGukSEMStP1b9wgyC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T15:10:31.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LQs4fRyrXgBIKJc_Le5y" version="21.7.5" type="github">
   <diagram name="Página-1" id="X05K04WF6sTSOBm79SVp">
-    <mxGraphModel>
+    <mxGraphModel dx="1257" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EFMaQVde5YRoi5evcj2K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EFMaQVde5YRoi5evcj2K-1" target="EFMaQVde5YRoi5evcj2K-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EFMaQVde5YRoi5evcj2K-2" target="EFMaQVde5YRoi5evcj2K-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-2" value="La transacción tiene activada la renovación autómatica?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="128" width="230" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EFMaQVde5YRoi5evcj2K-7" target="EFMaQVde5YRoi5evcj2K-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EFMaQVde5YRoi5evcj2K-11" target="EFMaQVde5YRoi5evcj2K-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="176" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-7" value="Se proceso el pago por Paypal" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="250" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EFMaQVde5YRoi5evcj2K-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="268" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-9" value="Mensaje de Error" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="248" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-10" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-11" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EFMaQVde5YRoi5evcj2K-15" target="EFMaQVde5YRoi5evcj2K-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-15" value="Se crea una nueva transacción con los datos de la anterior transacción" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="104.5" y="378" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.473;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EFMaQVde5YRoi5evcj2K-16" target="EFMaQVde5YRoi5evcj2K-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="172" y="598" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-16" value="Correo de Confirmación de Pago y Membresía Adquirida" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="101" y="473" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EFMaQVde5YRoi5evcj2K-2" target="EFMaQVde5YRoi5evcj2K-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="183" as="sourcePoint" />
+            <mxPoint x="355" y="228" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-21" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="158" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EFMaQVde5YRoi5evcj2K-24" target="EFMaQVde5YRoi5evcj2K-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-24" value="Se inactiva la transacción una vez terminado el periodo actual" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="248" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-26" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="715" y="158" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EFMaQVde5YRoi5evcj2K-27" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="558" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
